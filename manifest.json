@@ -1,0 +1,10 @@
+{
+  "name": "nonce",
+  "description": "Nonces in a box",
+  "author": "Frank Celler",
+  "version": "1.0.0",
+  "license": "Apache 2",
+  "controllers": {
+    "/nonce": "controllers/nonce.js"
+  }
+}
